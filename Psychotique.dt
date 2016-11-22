@@ -1,0 +1,11 @@
+﻿<theme>
+    <name>Psychotique</name>
+    <skinType>1</skinType>
+    <description>Thème Zobal par un fan, pour les fans!</description>
+    <previewUri>preview.png</previewUri>
+    <author>Reymix</author>
+    <version>1.0.0</version> <!-- IMPORTANT, si manquant le thème n'appaitra pas correctement à jour pour les utilisateurs  --> 
+    <dofusVersion>2.338</dofusVersion> 
+    <creationDate>22/11/2016</creationDate> 
+    <modificationDate>22/11/2016</modificationDate> 
+</theme> 
